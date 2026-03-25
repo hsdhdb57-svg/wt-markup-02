@@ -37,7 +37,7 @@ nav a:hover {
     color: #2196f3;
 }
 
-/* Главный экран */
+/* Головний екран */
 main section:first-child {
     background-color: #2f3241;
     color: #ffffff;
@@ -64,7 +64,7 @@ button:hover {
     background-color: #1976d2;
 }
 
-/* Блок с преимуществами */
+/* Блоки */
 section:nth-child(2) div {
     background-color: #f5f5f5;
     padding: 20px;
@@ -82,7 +82,7 @@ section:nth-child(2) p {
     color: #666;
 }
 
-/* Работы */
+/* Роботи */
 section:nth-child(3) img {
     width: 300px;
     height: auto;
@@ -118,7 +118,7 @@ article p {
     color: #777;
 }
 
-/* Футер */
+/* Низ */
 footer {
     background-color: #2f3241;
     color: #ffffff;
